@@ -1,5 +1,5 @@
 
-print("Výtejte v obchodu")
+print("Vítejte v obchodu")
 
 loop=True
 celkovaCena=0
